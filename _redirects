@@ -1,3 +1,4 @@
 /  https://maven.com/nftivyleague/masternfts 200
-/nftivyleague/masternfts?join=1  https://maven.com/nftivyleague/masternfts?join=1 301!
+/nftivyleague/masternfts  https://maven.com/nftivyleague/masternfts 301!
+/nftivyleague/masternfts/:splat  https://maven.com/nftivyleague/masternfts/:splat 301!
 /* https://maven.com/:splat  200
